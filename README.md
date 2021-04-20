@@ -1,4 +1,4 @@
-# KingzSquad
+# Kingz
 <html>
   <h1>Games</h1>
 
