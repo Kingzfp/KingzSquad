@@ -1,2 +1,2 @@
 # Games
-**Na ovom sajtu mozete igrati igre u skoli**
+**Na ovom sajtu mozete igrati igree u skoli**
