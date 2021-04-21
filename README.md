@@ -1,4 +1,4 @@
 # ante
 **ann**
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[Click](http://github.com)
