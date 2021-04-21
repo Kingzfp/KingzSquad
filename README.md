@@ -1,4 +1,3 @@
 # ante
 **ann**
-sitt
-[Click](http://github.com)
+_ovo su podebljana slova_
