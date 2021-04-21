@@ -1,3 +1,3 @@
 # ante
 **ann**
-_ovo su podebljana slova_
+_ovo su podebljana slove_
